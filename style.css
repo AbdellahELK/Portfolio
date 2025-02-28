@@ -204,6 +204,13 @@ section {
   animation: fadeInUp 1.5s ease-in-out;
 }
 
+.conc {
+  color: white;
+}
+.conc:hover {
+  text-decoration: none;
+}
+
 #socials-container {
   display: flex;
   justify-content: center;
